@@ -1,0 +1,1 @@
+# Gİthub READme dosyası oluşturmak için çalıştım.
