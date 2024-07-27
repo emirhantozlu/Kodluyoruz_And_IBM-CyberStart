@@ -1,3 +1,3 @@
-# Gİthub READme dosyası oluşturmak için çalıştım.
+# Kodluyoruz & IBM - CyberStart
 
-yeni yazı eklendi
+Repository containing the assignments given throughout the program
